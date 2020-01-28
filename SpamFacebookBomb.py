@@ -2,8 +2,8 @@ import fbchat
 from fbchat import Client
 from getpass import getpass
 import time
-#username = input("Username: ")
-username = "taypzaangel_427@hotmail.com"
+username = input("Username: ")
+#username = "EMAIL"
 Client = fbchat.Client(username, getpass())
 no_of_friends = int(input("Number of friends: "))
 for i in range(no_of_friends):
