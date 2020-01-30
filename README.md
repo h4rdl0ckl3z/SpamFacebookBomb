@@ -1,0 +1,2 @@
+# SpamFacebookBomb :)
+pip install fbchat
