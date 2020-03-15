@@ -19,3 +19,4 @@ for i in range(no_of_friends):
         print("Loops:", loop, "Message:", msg)
     if sent:
         print("Message sent successfully!")
+        Client.logout()
